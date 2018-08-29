@@ -1,4 +1,4 @@
-package controller;
+package com.hunter333.webApp1.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

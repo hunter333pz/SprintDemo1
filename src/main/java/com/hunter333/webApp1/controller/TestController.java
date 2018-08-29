@@ -1,4 +1,4 @@
-package controller;
+package com.hunter333.webApp1.controller;
 
 import java.util.Collection;
 import java.util.stream.Collectors;
